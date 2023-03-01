@@ -6,6 +6,8 @@
 
 ![Caetano GitHub stats](https://github-readme-stats.vercel.app/api?username=Kacaetano&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacaetano)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias em desenvolvimento 🖥️
 
 <div style="display: inline_block"><br/>
